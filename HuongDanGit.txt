@@ -1,0 +1,11 @@
+1. tạo 1 first_prject trên github 
+2. code trong cmd
+2.1. git clone ....link first_project trên git 
+2.2. vào ổ lưu tạo 1 file document.txt để đưa file đó lên 
+2.3. cd first_project
+2.4. git status 
+2.5. git add.
+2.6. git commit -m "Mô tả nội dung add"
+2.7. nếu yêu cầu nhập user.email , user.name thì nhập 
+2.8. git push
+3. mở ra kiểm tra xem lên chưa 
